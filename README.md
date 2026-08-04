@@ -1,5 +1,5 @@
- 💫 About Me:
- (Developer Style)<br><br># 👨‍💻 Aril Steven Sitohang<br><br>A passionate software developer dedicated to creating clean, efficient, and impactful solutions. I enjoy turning ideas into reality through code while continuously learning modern technologies and best practices.<br><br>### ⚡ Tech Stack<br><br>* HTML • CSS • JavaScript<br>* React<br>* Laravel<br>* Flutter<br>* MySQL<br>* Git & GitHub<br><br>> "Great software starts with curiosity and never stops improving."<br>
+
+  👨‍💻 Aril Steven Sitohang<br><br>A passionate software developer dedicated to creating clean, efficient, and impactful solutions. I enjoy turning ideas into reality through code while continuously learning modern technologies and best practices.<br><br>### ⚡ Tech Stack<br><br>* HTML • CSS • JavaScript<br>* React<br>* Laravel<br>* Flutter<br>* MySQL<br>* Git & GitHub<br><br>> "Great software starts with curiosity and never stops improving."<br>
 
 
 ## 🌐 Socials:
