@@ -17,14 +17,7 @@
 
 ## GitHub Statistics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      
-    </td>
+
   </tr>
 </table>
 
