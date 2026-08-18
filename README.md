@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.image2url.com/r2/default/gifs/1785956606745-acba7c97-63a1-455b-b268-2baa3f873952.gif" width="100%" alt="Casaa Banner"/>
+  <img src="[https://www.image2url.com/r2/default/gifs/1785956606745-acba7c97-63a1-455b-b268-2baa3f873952.gif](https://media1.tenor.com/m/Va0aMC_ujhEAAAAd/muichiro.gif)" width="100%" alt="Casaa Banner"/>
 </div>
 
 👨‍💻 Aril Steven Sitohang<br><br>A passionate software developer dedicated to creating clean, efficient, and impactful solutions. I enjoy turning ideas into reality through code while continuously learning modern technologies and best practices.<br><br> ⚡ Tech Stack<br><br>* HTML • CSS • JavaScript<br>* React<br>* Laravel<br>* Flutter<br>* MySQL<br>* Git & GitHub<br><br>> "Great software starts with curiosity and never stops improving."<br>
