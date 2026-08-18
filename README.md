@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Aril Banner"/>
+ <img src="./assets/banner.gif" width="100%" alt="Aril Banner"/>
 </div>
 
 <h1 align="center">👨‍💻 Aril Steven Sitohang</h1>
