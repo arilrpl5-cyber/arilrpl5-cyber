@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://www.image2url.com/r2/default/gifs/1785956606745-acba7c97-63a1-455b-b268-2baa3f873952.gif" width="100%" alt="rilz Banner"/>
+</div>
+
+<div align="center">
  <img src="./assets/banner.gif" width="100%" alt="Aril Banner"/>
 </div>
 
