@@ -6,7 +6,7 @@
  <img src="./assets/banner.gif" width="100%" alt="Aril Banner"/>
 </div>
 
-<h1 align="center">👨‍💻 Aril Steven Sitohang</h1>
+<h1 align="center"> Aril Steven Sitohang</h1>
 
 <p align="center">
   A passionate software developer dedicated to creating clean, efficient, and impactful solutions.
@@ -20,7 +20,7 @@
 </div>
 
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 - HTML • CSS • JavaScript
 - React
@@ -33,7 +33,7 @@
 
 
 
-## 🌐 Socials
+##  Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rilzyeagerx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aril-rpl-65339b3aa/)
@@ -42,7 +42,7 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -83,7 +83,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=arilrpl5-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -99,7 +99,7 @@
 
 [![](https://komarev.com/ghpvc/?username=arilrpl5-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
@@ -128,5 +128,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+   Thanks for visiting my profile!
 </p>
